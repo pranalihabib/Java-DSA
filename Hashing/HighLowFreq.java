@@ -42,3 +42,7 @@ public class HighLowFreq {
 // cd "/Users/pranalihabib/Desktop/java "
 // javac basics/onePlus.java
 // java basics.onePlus
+
+// cd "/Users/pranalihabib/Desktop/java "
+// javac basics/SortingTech/Sorting1/SelectionSort.java
+// java SortingTech.Sorting1.SelectionSort
